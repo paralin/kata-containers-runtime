@@ -1,4 +1,4 @@
-// +build !s390x
+// +build !s390x,!arm
 //
 // SPDX-License-Identifier: Apache-2.0
 //
